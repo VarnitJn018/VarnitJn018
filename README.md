@@ -1,5 +1,5 @@
 
-
+Hi there,
  I'm Varnit Jain 
 #### 19yo Undergrad@IIESTS, Kolkata
 I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I do frontend developing.
