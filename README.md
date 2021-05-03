@@ -4,7 +4,7 @@ Hi there,
 #### 19yo Undergrad@IIESTS, Kolkata
 I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I do frontend developing.
 
-Skills:HTML / CSS
+<h3>Skills:</h3> HTML / CSS
 
 - 🔭 I’m currently working on picoCTF 
 - 🌱 I’m currently learning Pen testing, C Language
