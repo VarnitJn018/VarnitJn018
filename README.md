@@ -21,8 +21,9 @@ Connect with me here:
 
 
 
-Tools and languages:
-
+Tools and languages: 
+[<img src='https://simpleicons.org/icons/kalilinux.svg' height='20'>]
+[<img src='https://simpleicons.org/icons/ubuntu.svg' height='20'>]
 
 
 
