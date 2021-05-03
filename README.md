@@ -4,7 +4,7 @@ Hi there,
 #### 19yo Undergrad@IIESTS, Kolkata
 I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I do frontend developing.
 
-<h3>Skills:</h3> HTML / CSS
+
 
 - 🔭 I’m currently working on picoCTF 
 - 🌱 I’m currently learning Pen testing, C Language
@@ -24,6 +24,8 @@ I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I d
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+[<img align="left" alt="UBUNTU" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ubuntu.svg" />](https://ubuntu.com/)
+
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninjachacha018&show_icons=true)  
