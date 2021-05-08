@@ -4,7 +4,7 @@
 #### 19yo Undergrad@IIESTS, Kolkata
 I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I do frontend developing.
 
-
+<img align='right' src='![git banner](https://user-images.githubusercontent.com/79880971/117537440-739b5800-b01e-11eb-9eea-a03005bb560b.gif)' width='400' height="500">
 
 - 🔭 I’m currently working on picoCTF 
 - 🌱 I’m currently learning Pen testing, C Language
