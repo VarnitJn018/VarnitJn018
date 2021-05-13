@@ -24,12 +24,13 @@ I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I d
 
 
  
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Languages:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <align="left"> <a href="https://www.kali.org/" target="_blank"> <img src="./pictures/kali.png" alt="kali" width="40" height="40"/> </a>
 <align="left"> <a href="https://ubuntu.com/" target="_blank"> <img src="./pictures/ubuntu.svg" alt="C" width="40" height="40"/> </a> 
 <align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="./pictures/C.svg" alt="C" width="40" height="40"/> </a> </p>
-
+<img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />
+<img align="left" alt="CSS" width="30px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/css.png" />
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninjachacha018&show_icons=true)  
