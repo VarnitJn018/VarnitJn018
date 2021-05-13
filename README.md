@@ -6,10 +6,10 @@ I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I d
 
 <img align='right' src='https://user-images.githubusercontent.com/79880971/117537440-739b5800-b01e-11eb-9eea-a03005bb560b.gif' width='500' height="500">
 
-- 🔭 I’m currently working on picoCTF 
+- 🔭 I’m currently working on picoCTF and web development
 - 🌱 I’m currently learning Pen testing, C Language
-- 👯 I’m looking to collaborate on Pen testing, cybersecurity, CTFs 
-- 😄 Pronouns: he/his 
+- 👯 I’m looking to collaborate on Pen testing, cybersecurity, CTFs & Front end development 
+
 
 <h2>Connect with me here:</h2>
 
