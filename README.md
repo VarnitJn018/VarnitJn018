@@ -31,5 +31,5 @@ I am curious about the applications of machine learning in material sciences.
 
 
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninjachacha018&show_icons=true)  
- ![Profile views](https://gpvc.arturio.dev/Ninjachacha018)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarnitJn018&show_icons=true)  
+ ![Profile views](https://gpvc.arturio.dev/VarnitJn018)
