@@ -25,8 +25,8 @@ I am curious about the applications of machine learning in material sciences.
  
 <h3 align="left">Tools and Languages:</h3>
 
-<align="left"> <a href="https://www.kali.org/" target="_blank"> <img src="./pictures/kali.png" alt="kali" width="40" height="40"/> </a>
-<align="left"> <a href="https://colab.research.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/> </a> 
+<img align="left"> <a href="https://www.kali.org/" target="_blank"> <img src="./pictures/kali.png" alt="kali" width="40" height="40"/> </a>
+<img align="left"> <a href="https://colab.research.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/> </a> 
 <img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />
 
 
