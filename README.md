@@ -1,8 +1,8 @@
 
 **Hi there,
  I'm Varnit Jain** 
-#### 19yo Undergrad@IIESTS, Kolkata
-I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I do frontend developing for fun.
+#### 19yo Undergrad IIEST, Shibpur
+I am curious about the applications of machine learning in material sciences.
 
 <img align='right' src='https://user-images.githubusercontent.com/79880971/117537440-739b5800-b01e-11eb-9eea-a03005bb560b.gif' width='500' height="500">
 
@@ -24,12 +24,11 @@ I teach myself cybersecurity & pentesting, OSINT makes me curious. Sometimes I d
 
  
 <h3 align="left">Tools and Languages:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+
 <align="left"> <a href="https://www.kali.org/" target="_blank"> <img src="./pictures/kali.png" alt="kali" width="40" height="40"/> </a>
-<align="left"> <a href="https://colab.research.google.com/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg" alt="C" width="40" height="40"/> </a> 
-<align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="./pictures/C.svg" alt="C" width="40" height="40"/> </a> </p>
+<align="left"> <a href="https://colab.research.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/> </a> 
 <img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />
-<img align="left" alt="CSS" width="30px" src="https://github.com/NeerajHazarika/NeerajHazarika/blob/main/github%20readme/css.png" />
+
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninjachacha018&show_icons=true)  
