@@ -29,6 +29,8 @@ I am curious about the applications of machine learning in material sciences.
 <img align="left"> <a href="https://colab.research.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/> </a> 
 <img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />
 
+![Spotify](http://novatorem-git-master-varnitjn018.vercel.app/api/spotify)](https://open.spotify.com/user/ugjifu365u3yo504vtf5y3i9g)
+
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarnitJn018&show_icons=true)  
