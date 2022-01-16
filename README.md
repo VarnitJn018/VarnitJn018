@@ -7,7 +7,7 @@ I am curious about the applications of machine learning in material sciences.
 <img align='right' src='https://user-images.githubusercontent.com/79880971/117537440-739b5800-b01e-11eb-9eea-a03005bb560b.gif' width='500' height="500">
 
 - 🌱 I’m currently learning Python and Machine Learning
-- 👯 I’m looking to collaborate on Machine Learning Project 
+- 👯 I’m looking to collaborate on Machine Learning Projects
 
 
 <h2>Connect with me here:</h2>
