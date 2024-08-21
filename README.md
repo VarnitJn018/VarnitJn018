@@ -1,7 +1,7 @@
 
 **Hi there,
  I'm Varnit Jain** 
-#### Undergraduate at IIEST, Shibpur
+#### PhD candidate at the University of Liverpool
 I work on projects related to image analysis of metallographic samples, property prediction and parameter optimization of metallurgical and materials processing and devlopment, finite element analysis, and molecular dynamics simulations.
 
 <img align='right' src='https://user-images.githubusercontent.com/79880971/117537440-739b5800-b01e-11eb-9eea-a03005bb560b.gif' width='500' height="500">
