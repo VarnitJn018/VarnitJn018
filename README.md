@@ -1,14 +1,14 @@
 
 **Hi there,
  I'm Varnit Jain** 
-#### PhD candidate at the University of Liverpool
-I work on projects related to image analysis of metallographic samples, property prediction and parameter optimization of metallurgical and materials processing and devlopment, finite element analysis, and molecular dynamics simulations.
+#### Doctoral candidate at the University of Liverpool
+I work on projects related to molecular dynamics simulations.
 
 <img align='right' src='https://user-images.githubusercontent.com/79880971/117537440-739b5800-b01e-11eb-9eea-a03005bb560b.gif' width='500' height="500">
 
 <h2>Connect with me here:</h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ninjachacha018)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/varnit-jain-7b5721199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/varnit.jain.779)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thelenzyguy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ninjachacha018)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/EmotionalTwist6658/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/793057634924232734/793057634924232737)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ninjachacha018)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/varnit-jain-7b5721199/)
 
 **Contact me here**: varnitjain018@gmail.com
  
